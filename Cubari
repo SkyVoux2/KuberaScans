@@ -4,7 +4,15 @@
   "author": "Currygom",
   "cover": "https://i.imgur.com/eGwAdqV.jpg",
   "chapters": {
-    "3.161": {
+    "3.160.01": {
+      "title": "Special Episode 1 - Gaze",
+      "volume": "3",
+      "groups": {
+        "Babo Kim Scans": "/proxy/api/imgur/chapter/dwiR72v/"
+      },
+      "last_updated": "1603551600"
+    },
+     "3.161": {
       "title": "The Weight of Time (1)",
       "volume": "3",
       "groups": {
