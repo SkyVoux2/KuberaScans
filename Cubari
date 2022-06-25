@@ -779,6 +779,22 @@
         "Babo Kim Scans": "/proxy/api/imgur/chapter/ZzX0JkB"
       },
       "last_updated": "1655650281"
+    },
+       "3.245": {
+      "title": "Abyss (4)",
+      "volume": "3",
+      "groups": {
+        "Babo Kim Scans": "/proxy/api/imgur/chapter/DGIb5wi"
+      },
+      "last_updated": "1656177279"
+    },
+       "3.245.5": {
+      "title": "April Fools' Q&A",
+      "volume": "3",
+      "groups": {
+        "Babo Kim Scans": "/proxy/api/imgur/chapter/SF0bz62"
+      },
+      "last_updated": "1656177633"
     }
   }
 }
