@@ -5,7 +5,7 @@
   "cover": "https://i.imgur.com/eGwAdqV.jpg",
   "chapters": {
     "0.01": {
-      "title": "Side Story 1 Gaze",
+      "title": "Side Story 1:Gaze",
       "volume": "3",
       "groups": {
         "Quegna Traduction Team": "/proxy/api/imgur/chapter/CzjmMr8/"
@@ -13,7 +13,7 @@
       "last_updated": "1593183600"
     },
      "0.02": {
-      "title": "Side Story 2 Conditions for Affection",
+      "title": "Side Story 2:Conditions for Affection",
       "volume": "3",
       "groups": {
         "Quegna Traduction Team": "/proxy/api/imgur/chapter/YwFGvYC/"
@@ -21,7 +21,7 @@
       "last_updated": "1593529200"
     },
      "0.03": {
-      "title": "Side Story 3 I love you, I love you not (1)",
+      "title": "Side Story 3:I love you, I love you not (1)",
       "volume": "3",
       "groups": {
         "Quegna Traduction Team": "/proxy/api/imgur/chapter/6UoKZvY/"
@@ -29,7 +29,7 @@
       "last_updated": "1595602800"
     },
      "0.04": {
-      "title": "Side Story 3 I love you, I love you not (2)",
+      "title": "Side Story 3:I love you, I love you not (2)",
       "volume": "3",
       "groups": {
         "Quegna Traduction Team": "/proxy/api/imgur/chapter/eFt2csb/"
@@ -37,7 +37,7 @@
       "last_updated": "1597158000"
     },
      "0.05": {
-      "title": "Side Story 4 Water's Shadow",
+      "title": "Side Story 4:Water's Shadow",
       "volume": "3",
       "groups": {
         "Quegna Traduction Team": "/proxy/api/imgur/chapter/FeSWiuF/"
@@ -45,7 +45,7 @@
       "last_updated": "1598367600"
     },
      "0.06": {
-      "title": "Side Story 5 News",
+      "title": "Side Story 5:News",
       "volume": "3",
       "groups": {
         "Quegna Traduction Team": "/proxy/api/imgur/chapter/wXfCcr8/"
@@ -53,7 +53,7 @@
       "last_updated": "1598972400"
     },
      "0.07": {
-      "title": "Side Story 6 Ideals",
+      "title": "Side Story 6:Ideals",
       "volume": "3",
       "groups": {
         "Quegna Traduction Team": "/proxy/api/imgur/chapter/tNUU4c8/"
@@ -61,7 +61,7 @@
       "last_updated": "1599231600"
     },
      "0.08": {
-      "title": "Side Story 7 South Pole Expedition (1)",
+      "title": "Side Story 7:South Pole Expedition (1)",
       "volume": "3",
       "groups": {
         "Quegna Traduction Team": "/proxy/api/imgur/chapter/S9wFMn1/"
@@ -69,7 +69,7 @@
       "last_updated": "1600182000"
     },
      "0.09": {
-      "title": "Side Story 7 South Pole Expedition (2)",
+      "title": "Side Story 7:South Pole Expedition (2)",
       "volume": "3",
       "groups": {
         "Quegna Traduction Team": "/proxy/api/imgur/chapter/BkSev9y/"
@@ -77,7 +77,7 @@
       "last_updated": "1600182000"
     },
      "0.10": {
-      "title": "Side Story 8 Hide and Seek",
+      "title": "Side Story 8:Hide and Seek",
       "volume": "3",
       "groups": {
         "Quegna Traduction Team": "/proxy/api/imgur/chapter/AvPWSk1/"
@@ -85,7 +85,7 @@
       "last_updated": "1605020400"
     },
      "0.11": {
-      "title": "Side Story 9 Wish (1)",
+      "title": "Side Story 9:Wish (1)",
       "volume": "3",
       "groups": {
         "Quegna Traduction Team": "/proxy/api/imgur/chapter/5frTAk3/"
@@ -93,7 +93,7 @@
       "last_updated": "1605020400"
     },
      "0.12": {
-      "title": "Side Story 9 Wish (2)",
+      "title": "Side Story 9:Wish (2)",
       "volume": "3",
       "groups": {
         "Quegna Traduction Team": "/proxy/api/imgur/chapter/DQ1XwqI/"
@@ -101,7 +101,7 @@
       "last_updated": "1605020400"
     },
      "0.13": {
-      "title": "Side Story 9 Wish (3)",
+      "title": "Side Story 9:Wish (3)",
       "volume": "3",
       "groups": {
         "Quegna Traduction Team": "/proxy/api/imgur/chapter/mfae8B2/"
@@ -949,7 +949,7 @@
       "last_updated": "1667187300"
     },
        "0.15": {
-      "title": "Side Story 10 The Black Bear and The Fire Fox (1)",
+      "title": "Side Story 10:The Black Bear and The Fire Fox (1)",
       "volume": "3",
       "groups": {
         "Babo Kim Scans": "/proxy/api/imgur/chapter/kvy8yYI"
@@ -957,7 +957,7 @@
       "last_updated": "1667794190"
     },
        "0.16": {
-      "title": "Side Story 10 The Black Bear and The Fire Fox (2)",
+      "title": "Side Story 10:The Black Bear and The Fire Fox (2)",
       "volume": "3",
       "groups": {
         "Babo Kim Scans": "/proxy/api/imgur/chapter/4ZKE0F6"
@@ -965,7 +965,7 @@
       "last_updated": "1668313144"
     },
        "0.17": {
-      "title": "Side story 11 Voracity",
+      "title": "Side story 11:Voracity",
       "volume": "3",
       "groups": {
         "Babo Kim Scans": "/proxy/api/imgur/chapter/W1dNTan"
@@ -973,7 +973,7 @@
       "last_updated": "1668795920"
     },
        "0.18": {
-      "title": "Side Story 12 A Life Flashing",
+      "title": "Side Story 12:A Life Flashing",
       "volume": "3",
       "groups": {
         "Babo Kim Scans": "/proxy/api/imgur/chapter/DMLfCb1"
@@ -981,7 +981,7 @@
       "last_updated": "1669577794"
     },
        "0.19": {
-      "title": "Side Story 13 The End Of A Fiendish Magician",
+      "title": "Side Story 13:The End Of A Fiendish Magician",
       "volume": "3",
       "groups": {
         "Babo Kim Scans": "/proxy/api/imgur/chapter/XYSo7gN"
@@ -989,7 +989,7 @@
       "last_updated": "1670210674"
     },
        "0.20": {
-      "title": "Side Story 14 Whistling (1)",
+      "title": "Side Story 14:Whistling (1)",
       "volume": "3",
       "groups": {
         "Babo Kim Scans": "/proxy/api/imgur/chapter/uFtszQI"
@@ -997,7 +997,7 @@
       "last_updated": "1670695879"
     },
        "0.21": {
-      "title": "Side Story 14 Whistling (2)",
+      "title": "Side Story 14:Whistling (2)",
       "volume": "3",
       "groups": {
         "Babo Kim Scans": "/proxy/api/imgur/chapter/5wWWfwS"
@@ -1005,7 +1005,7 @@
       "last_updated": "1671420442"
     },
        "0.22": {
-      "title": "Side story 15 Bewtween Frst And Second",
+      "title": "Side story 15:Bewtween Frst And Second",
       "volume": "3",
       "groups": {
         "Babo Kim Scans": "/proxy/api/imgur/chapter/pnaWNQr"
@@ -1013,7 +1013,7 @@
       "last_updated": "1671894125"
     },
        "0.23": {
-      "title": "Side Story 16 Love Letter",
+      "title": "Side Story 16:Love Letter",
       "volume": "3",
       "groups": {
         "Babo Kim Scans": "/proxy/api/imgur/chapter/nR7gyVy"
@@ -1029,7 +1029,7 @@
       "last_updated": "1673045222"
     },
        "0.23": {
-      "title": "Side Story 17 Dawn Of The Gods",
+      "title": "Side Story 17:Dawn Of The Gods",
       "volume": "3",
       "groups": {
         "Babo Kim Scans": "/proxy/api/imgur/chapter/ZFNuiJM"
@@ -1037,7 +1037,7 @@
       "last_updated": "1673119889"
     },
        "0.24": {
-      "title": "Side Story 18 In My Delusions (1)",
+      "title": "Side Story 18:In My Delusions (1)",
       "volume": "3",
       "groups": {
         "Babo Kim Scans": "/proxy/api/imgur/chapter/lZqqyYQ"
@@ -1045,7 +1045,7 @@
       "last_updated": "1673800610"
     },
        "0.25": {
-      "title": "Side Story 18 In My Delusions (2)",
+      "title": "Side Story 18:In My Delusions (2)",
       "volume": "3",
       "groups": {
         "Babo Kim Scans": "/proxy/api/imgur/chapter/InW6qWh"
@@ -1053,7 +1053,7 @@
       "last_updated": "1674482640"
     },
        "0.26": {
-      "title": "Side Story 18 In My Delusions (3)",
+      "title": "Side Story 18:In My Delusions (3)",
       "volume": "3",
       "groups": {
         "Babo Kim Scans": "/proxy/api/imgur/chapter/tyRhuPR"
@@ -1245,7 +1245,7 @@
       "last_updated": "1688250692"
     },
        "0.28": {
-      "title": "The Dragon King's Universe",
+      "title": "Side Story 19:The Dragon King's Universe",
       "volume": "3",
       "groups": {
         "Babo Kim Scans": "/proxy/api/imgur/chapter/DRKtl1u"
