@@ -1808,9 +1808,17 @@
       "title": "Someone's Universe (23)",
       "volume": "3",
       "groups": {
-        "Babo Kim Scans": "/proxy/api/imgur/a/VxXnmLj"
+        "Babo Kim Scans": "/proxy/api/imgur/chapter/VxXnmLj"
       },
       "last_updated": "1760798559"
+    },
+       "3.392": {
+      "title": "Someone's Universe (24)",
+      "volume": "3",
+      "groups": {
+        "Babo Kim Scans": "/proxy/api/imgur/chapter/knSsqrg"
+      },
+      "last_updated": "1761482057"
     }
   }
 }
