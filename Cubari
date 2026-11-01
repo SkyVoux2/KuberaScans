@@ -2216,9 +2216,25 @@
       "title": "Finale (44)",
       "volume": "3",
       "groups": {
-        "Babo Kim Scans": "/proxy/api/imgchest/chapter/92498bzrvyn"
+        "Babo Kim Scans": [
+          "https://cdn.jsdelivr.net/gh/TierraX/kubera-episode-images@e910a03/%5BBabokimscans%20Kubera%20S3E442%5D/3-442_01.jpg",
+          "https://cdn.jsdelivr.net/gh/TierraX/kubera-episode-images@e910a03/%5BBabokimscans%20Kubera%20S3E442%5D/3-442_02.jpg",
+          "https://cdn.jsdelivr.net/gh/TierraX/kubera-episode-images@e910a03/%5BBabokimscans%20Kubera%20S3E442%5D/3-442_03.jpg",
+          "https://cdn.jsdelivr.net/gh/TierraX/kubera-episode-images@e910a03/%5BBabokimscans%20Kubera%20S3E442%5D/3-442_04.jpg",
+          "https://cdn.jsdelivr.net/gh/TierraX/kubera-episode-images@e910a03/%5BBabokimscans%20Kubera%20S3E442%5D/3-442_05.jpg",
+          "https://cdn.jsdelivr.net/gh/TierraX/kubera-episode-images@e910a03/%5BBabokimscans%20Kubera%20S3E442%5D/3-442_06.jpg",
+          "https://cdn.jsdelivr.net/gh/TierraX/kubera-episode-images@e910a03/%5BBabokimscans%20Kubera%20S3E442%5D/3-442_07.jpg",
+          "https://cdn.jsdelivr.net/gh/TierraX/kubera-episode-images@e910a03/%5BBabokimscans%20Kubera%20S3E442%5D/3-442_08.jpg",
+          "https://cdn.jsdelivr.net/gh/TierraX/kubera-episode-images@e910a03/%5BBabokimscans%20Kubera%20S3E442%5D/3-442_09.jpg",
+          "https://cdn.jsdelivr.net/gh/TierraX/kubera-episode-images@e910a03/%5BBabokimscans%20Kubera%20S3E442%5D/3-442_10.jpg",
+          "https://cdn.jsdelivr.net/gh/TierraX/kubera-episode-images@e910a03/%5BBabokimscans%20Kubera%20S3E442%5D/3-442_11.jpg",
+          "https://cdn.jsdelivr.net/gh/TierraX/kubera-episode-images@e910a03/%5BBabokimscans%20Kubera%20S3E442%5D/3-442_12.jpg",
+          "https://cdn.jsdelivr.net/gh/TierraX/kubera-episode-images@e910a03/%5BBabokimscans%20Kubera%20S3E442%5D/3-442_13.jpg",
+          "https://cdn.jsdelivr.net/gh/TierraX/kubera-episode-images@e910a03/%5BBabokimscans%20Kubera%20S3E442%5D/3-442_14.jpg",
+          "https://cdn.jsdelivr.net/gh/TierraX/kubera-episode-images@e910a03/%5BBabokimscans%20Kubera%20S3E442%5D/3-442_15blog.jpg"
+        ]
       },
-      "last_updated": "1793554383"
+      "last_updated": "1793558814"
     }
   }
 }
